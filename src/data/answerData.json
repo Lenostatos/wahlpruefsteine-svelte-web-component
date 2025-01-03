@@ -1,0 +1,86 @@
+{
+    "parties": [
+        {
+            "name": "cdu"
+        },
+        {
+            "name": "spd"
+        },
+        {
+            "name": "grüne"
+        },
+        {
+            "name": "hasen"
+        },
+        {
+            "name": "linke"
+        }
+    ],
+    "questions": [
+        {
+            "text": "Durch wen/durch welche externen Institutionen werden Sie sich bei Ihrer Wirtschafts(- und Finanz?)politik beraten lassen und welche auswahlkriterien erfüllt diese institution?",
+            "selectionHandle": "Externe Beratung"
+        },
+        {
+            "text": "In den Wirtschaftswissenschaften gibt es einen Lock-In in „neoklassische“ Fragestellungen und Methoden, z.B. der Priorisierung von Effizienz vor Robustheit. Dies führte zu anfälligen Lieferketten in Krisenzeiten. Sollten solche Lock-Ins durch gezielte Förderung pluraler Ansätze in der Forschung aufgebrochen werden?",
+            "selectionHandle": "Förderung pluraler WiWis"
+        },
+        {
+            "text": "Wie stehen Sie dazu, die Aufträge an Ihre wissenschaftlichen Beiräte offener zu gestalten? Z.B. beschränkt der aktuelle gesetzliche Auftrag der \"Wirtschaftsweisen\" diese auf Marktwirtschaft und Wirtschaftswachstum.",
+            "selectionHandle": "Wirtschaftsweisen Auftrag"
+        },
+        {
+            "text": "Das BIP misst nur die Summe der am Markt gehandelten Produktion und berücksichtigt nicht wichtige Aspekte wie Einkommensverteilung, Umweltzustand und Care-Arbeit. Wie stehen Sie dazu, dass das BIP zentrale Faktoren für eine gesunde Wirtschaft ausblendet? Würden Sie sich für erweiterte Indikatoren einsetzen?",
+            "selectionHandle": "BIP ersetzen"
+        },
+        {
+            "text": "Möchten Sie sich dafür einsetzen, den Beirat der \"Wirtschaftsweisen\", beirat des bmf, beirat des  mit Ökonom:innen verschiedener Denkschulen zu besetzen? Wenn nicht - warum nicht?",
+            "selectionHandle": "Wirtschaftsweisen Besetzung"
+        },
+        {
+            "text": "Was denken Sie, ist die Sicht unserer europäischen Nachbarn auf den \"Exportweltmeister\" Deutschland? In viele Euro-Länder exportiert Deutschland mehr Güter, als diese Länder von Deutschland importieren.",
+            "selectionHandle": "Exportweltmeister?"
+        },
+        {
+            "text": "in den wirtschaftswissenschaften wird der Emissionszertifikatehandel als wichtigstes Instrument zur Einhaltung der Pariser Klimaziele gesehen. Warum zeigt sich dieses Instrument bisher, vor allem angesichts der niedrigen CO2-Preise, nicht so effektiv wie gewünscht und wie kann man es besser ausgestalten?",
+            "selectionHandle": "CO²-Zertifikate Effektivität"
+        }
+    ],
+    "answers": [
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "cdu",
+            "toQuestion": "Durch wen/durch welche externen Institutionen werden Sie sich bei Ihrer Wirtschafts(- und Finanz?)politik beraten lassen und welche auswahlkriterien erfüllt diese institution?"
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "cdu",
+            "toQuestion": "Wie stehen Sie dazu, die Aufträge an Ihre wissenschaftlichen Beiräte offener zu gestalten? Z.B. beschränkt der aktuelle gesetzliche Auftrag der \"Wirtschaftsweisen\" diese auf Marktwirtschaft und Wirtschaftswachstum."
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "spd",
+            "toQuestion": "Wie stehen Sie dazu, die Aufträge an Ihre wissenschaftlichen Beiräte offener zu gestalten? Z.B. beschränkt der aktuelle gesetzliche Auftrag der \"Wirtschaftsweisen\" diese auf Marktwirtschaft und Wirtschaftswachstum."
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "spd",
+            "toQuestion": "Möchten Sie sich dafür einsetzen, den Beirat der \"Wirtschaftsweisen\", beirat des bmf, beirat des  mit Ökonom:innen verschiedener Denkschulen zu besetzen? Wenn nicht - warum nicht?"
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "spd",
+            "toQuestion": "Durch wen/durch welche externen Institutionen werden Sie sich bei Ihrer Wirtschafts(- und Finanz?)politik beraten lassen und welche auswahlkriterien erfüllt diese institution?"
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "grüne",
+            "toQuestion": "Durch wen/durch welche externen Institutionen werden Sie sich bei Ihrer Wirtschafts(- und Finanz?)politik beraten lassen und welche auswahlkriterien erfüllt diese institution?"
+        },
+        {
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "byParty": "linke",
+            "toQuestion": "Durch wen/durch welche externen Institutionen werden Sie sich bei Ihrer Wirtschafts(- und Finanz?)politik beraten lassen und welche auswahlkriterien erfüllt diese institution?"
+        }
+    ]
+}
